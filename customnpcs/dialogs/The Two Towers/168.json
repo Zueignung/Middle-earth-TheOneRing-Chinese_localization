@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 169,
-                "Title": "他说你的经历非常坎坷。",
+                "Title": "他说你的人生是个悲剧。",
                 "DialogColor": 16447726,
                 "OptionType": 1
             }
@@ -51,11 +51,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "不关你事，你不要问。咕噜，咕噜！
+    "DialogText": "不准问我们，与你无关。咕噜，咕噜！
  
 (他开始唱歌)
 
-我是一个冷血动物， 冷，我是一个孤魂野鬼。",
+心也寒来骨也冻，旅人归家路不通。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
